@@ -1,3 +1,5 @@
+<h1 align="center">MY SKILLS</h1>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -27,6 +29,6 @@
 ###
 
 <p align="left">Hi, I am student. I am learning programming!</p>
-<a align="left" href="https://jakub.jirak.dev/">My protfolio website!</a>
+<a align="left" href="https://jakub.jirak.dev/" target="_blank">My protfolio website!</a>
 
 ###
