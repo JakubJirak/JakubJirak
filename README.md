@@ -23,6 +23,5 @@
 ###
 
 <p align="left">Hi, I am student. I am learning programming!</p>
-<a align="left" href="https://jakub.jirak.dev/" target="_blank">My protfolio website!</a>
 
 ###
